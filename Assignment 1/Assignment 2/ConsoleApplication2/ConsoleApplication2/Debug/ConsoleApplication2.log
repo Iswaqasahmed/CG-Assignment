@@ -1,0 +1,14 @@
+﻿Build started 11/25/2020 1:06:36 PM.
+     1>Project "C:\Users\Waqas\source\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\Waqas\Downloads\glew-2.1.0-win32\glew-2.1.0\include\GL" /I"C:\Users\Waqas\Downloads\glfw-3.3.2.bin.WIN32\glfw-3.3.2.bin.WIN32\include\GLFW" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ConsoleApplication2.cpp
+         ConsoleApplication2.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Waqas\source\ConsoleApplication2\Debug\ConsoleApplication2.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\Waqas\Downloads\glew-2.1.0-win32\glew-2.1.0\lib\Release\Win32" /LIBPATH:"C:\Users\Waqas\Downloads\glfw-3.3.2.bin.WIN32\glfw-3.3.2.bin.WIN32\lib-vc2013" opengl32.lib glew32.lib glfw3.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Waqas\source\ConsoleApplication2\Debug\ConsoleApplication2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Waqas\source\ConsoleApplication2\Debug\ConsoleApplication2.lib" /MACHINE:X86 Debug\ConsoleApplication2.obj
+         Debug\stdafx.obj
+         ConsoleApplication2.vcxproj -> C:\Users\Waqas\source\ConsoleApplication2\Debug\ConsoleApplication2.exe
+     1>Done Building Project "C:\Users\Waqas\source\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.07
